@@ -14,6 +14,8 @@ node -v
 npm -v
 ```
 
+- If not installed, download and install Node.js from [Node.js](https://nodejs.org/).
+
 ### Clone the repository or create a new project:
 
 ```sh
