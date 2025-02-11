@@ -17,8 +17,8 @@ npm -v
 ### Clone the repository or create a new project:
 
 ```sh
-git clone <>
-cd <>
+git clone https://github.com/BIGGY00/puppeteer-scraper.git
+cd https://github.com/BIGGY00/puppeteer-scraper.git
 ```
 
 ### Install dependencies:
